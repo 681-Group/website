@@ -358,6 +358,7 @@ img {
   font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
   font-size: 16px;
   font-style: normal;
+  font-weight: 400;
   display: block;
 }
 
@@ -483,7 +484,12 @@ img {
 }
 
 .heading, .heading-2 {
-  font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+  font-family: Montserrat, sans-serif;
+  font-weight: 400;
+}
+
+.bold-text, .heading-3 {
+  font-family: Montserrat, sans-serif;
 }
 
 @media screen and (max-width: 991px) {
